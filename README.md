@@ -1,6 +1,6 @@
 # SIU2022-Gender-Hate-Speech
 
-This repository contains the utilized dataset in the paper "Gender Identity-based Hate Speech Detection (Cinsiyet Kimliği Tabanlı Nefret Söylemi Tespiti)". The 30th IEEE Conference on Signal Processing and Communications Applications Conference (SİU)
+This repository contains the utilized dataset in the paper "Gender Identity-based Hate Speech Detection (Cinsiyet Kimliği Tabanlı Nefret Söylemi Tespiti)" in The 30th IEEE Conference on Signal Processing and Communications Applications Conference (SİU)
 
 ## Dataset
 
